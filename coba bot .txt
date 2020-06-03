@@ -2,3 +2,5 @@ coba buat
 
 coba API : bot chat line
 buat assistant
+tambahkan game
+
